@@ -1,0 +1,8 @@
+.project
+.settings
+.metadata
+.license.txt
+.lib
+data/*
+!data/dict.txt
+.test_cases
