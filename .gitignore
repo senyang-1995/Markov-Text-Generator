@@ -1,7 +1,6 @@
 .project
 .settings
 .metadata
-lib/*
 data/*
 !data/dict.txt
 test_cases/*
